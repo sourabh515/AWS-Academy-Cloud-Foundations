@@ -1,1 +1,0 @@
-# AWS-Academy-Cloud-Foundations
